@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! I'm Sofia Sharipova
 
-<!--
-**sofiasha/sofiasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ltanisha?privacyEmail=true)](https://www.42.fr/)
 
-Here are some ideas to get you started:
+- 🔭 I’m student of School 21
+- 🌱 I’m currently learning JavaScript
+- 📫 My codewars profile https://www.codewars.com/users/sofyassh
+<img src=https://www.codewars.com/users/sofyassh/badges/small>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 42 Projects:
+### Libft - Rewriting library
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ltanisha/Libft)](https://github.com/sofiasha/libft)
+
+### Ft_server - First meeting with Docker
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ltanisha/ft_server)](https://github.com/sofiasha/ft_server)
+
+
+
+
