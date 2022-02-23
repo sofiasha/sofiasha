@@ -9,7 +9,7 @@
 
 ## 42 Projects:
 ### Libft - Rewriting library
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ltanisha/Libft)](https://github.com/sofiasha/libft)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ltanisha/Libft)](https://github.com/sofiasha/libft-upd)
 
 ### Ft_server - First meeting with Docker
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ltanisha/ft_server)](https://github.com/sofiasha/ft_server)
