@@ -14,6 +14,13 @@
 - 📫 My codewars profile https://www.codewars.com/users/sofyassh
 <img src=https://www.codewars.com/users/sofyassh/badges/small>
 
+---
+
+| Project  | Description |
+| ------------- | ------------- |
+| [Libft](https://github.com/sofiasha/libft-upd) | Rewriting standard C library |
+| [Notes](https://github.com/sofiasha/notes) | Simple notes application |
+
 
 
 
