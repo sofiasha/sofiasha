@@ -1,9 +1,13 @@
 
 
-<h1>
-  Hi there!
-</h1>
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <h2>
+  Hi there!
+</h2>
+</div>
 
 - 🔭 I’m student of School 21
 - 🌱 I’m currently learning JavaScript
