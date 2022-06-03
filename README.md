@@ -20,9 +20,11 @@
 | ------------- | ------------- |
 | [Libft](https://github.com/sofiasha/libft-upd) | Rewriting standard C library |
 | [Notes](https://github.com/sofiasha/notes) | Simple notes application |
-
-
-
+| [To-do list](https://github.com/sofiasha/to-do-list) | Vanilla JS to-do list |
+| [Google App Scripts](https://github.com/sofiasha/Google-app-scripts) | Using Google App Scripts (based on JS) to simplify work with documents |
+| [Cpp modules](https://github.com/sofiasha/cpp_modules) | Learning basic OOP principles using C++ |
+| [Java ATM](https://github.com/sofiasha/ATM_Java) | Simple ATM imitation |
+| [ft_server](https://github.com/sofiasha/ft_server) | First meeting with Docker |
 
 
 
